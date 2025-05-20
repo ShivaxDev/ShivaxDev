@@ -74,7 +74,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TROCK3338&show_icons=true&theme=tokyonight)
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivaxdev&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TROCK3338&layout=compact&theme=tokyonight)
 
 ---</div>
