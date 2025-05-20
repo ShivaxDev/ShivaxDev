@@ -23,10 +23,10 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman-singhall/" target="_blank">
+  <a href="https://www.linkedin.com/in/Shivaxdev/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50"/>
   </a>
-  <a href="mailto:amansinghal20@icloud.com">
+  <a href="mailto:arjunxshivhare@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="50"/>
   </a>
 </p>
